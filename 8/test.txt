@@ -1,0 +1,3 @@
+Hello, world!
+I am student.
+I'm studying c++ primer.
